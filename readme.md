@@ -22,7 +22,7 @@ git checkout -b feature/your-name
 4. **Make your changes** and commit them:
 ```bash
 git add .
-git commit -m "Add something"
+git commit -m "{Your commit message}" # Replace with a meaningful commit message
 ```
 
 5. **Push your changes** to your fork:
@@ -30,4 +30,4 @@ git commit -m "Add something"
 git push -u origin feature/your-name
 ```
 
-6. **Create a Pull Request** to submit your work.
+6. **Create a Pull Request** and submit your work.
